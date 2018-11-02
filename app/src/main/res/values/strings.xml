@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConectandoConGoogleSheet</string>
+    <string name="datos">Aquí irán los datos</string>
+    <string name="boton1">Conectar</string>
+</resources>
